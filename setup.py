@@ -33,7 +33,7 @@ setup(
     # There are some restrictions on what makes a valid project name
     # specification here:
     # https://packaging.python.org/specifications/core-metadata/#name
-    name='foo',  # Required
+    name='foo-aspp',  # Required
 
     # Versions should comply with PEP 440:
     # https://www.python.org/dev/peps/pep-0440/
@@ -84,7 +84,6 @@ setup(
         'Development Status :: 3 - Alpha',
 
         # Indicate who your project is intended for
-        'Intended Audience :: Scientists',
 
         # Pick your license as you wish
         'License :: OSI Approved :: MIT License',
